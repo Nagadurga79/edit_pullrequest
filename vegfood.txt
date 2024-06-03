@@ -8,5 +8,5 @@ burelu|sweetandsalt
 ariselu|sweet
 halwapuri|sweet
 samosa|spicy
-badam_milk|cool
+badam_milk|cools
 
