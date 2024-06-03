@@ -5,7 +5,7 @@ pulihora_sour
 pongal|sweet
 semya|sweet
 burelu|sweetandsalt
-ariselu|sweet
+ariselu|sweets
 halwapuri|sweet
 samosa|spicy
 badam_milk|cools
