@@ -1,7 +1,7 @@
 vegfood_names|taste
 pappu_tomato|tasty
 omblet|spicy
-pulihora_sour
+pulihora|sour
 pongal|sweet
 semya|sweet
 burelu|sweetandsalt
