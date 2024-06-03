@@ -1,0 +1,12 @@
+vegfood_names|taste
+pappu_tomato|tasty
+omblet|spicy
+pulihora_sour
+pongal|sweet
+semya|sweet
+burelu|sweetandsalt
+ariselu|sweet
+halwapuri|sweet
+samosa|spicy
+badam_milk|cool
+
