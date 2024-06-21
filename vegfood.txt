@@ -9,4 +9,4 @@ ariselu|sweets
 halwapuri|sweet
 samosa|spicy
 badam_milk|cools
-
+ice_cream|cool
